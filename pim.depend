@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697569762 source:d:\faculdade\2º sem\pim\code\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+
